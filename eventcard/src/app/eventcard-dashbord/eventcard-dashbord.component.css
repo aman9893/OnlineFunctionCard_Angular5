@@ -1,0 +1,9 @@
+.cantainer_heading{
+  text-align: center;
+  padding: 25px;
+  background: #0b2f3a;
+  color: white;
+}
+.cantainer_heading .jumbotron {
+  padding: 20px;
+}
